@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Sancheti</h1>
-<h3 align="center">SDE-II @IBM ISDL| Open source day GHC’23 mentor | Ceph Storage Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">SDE @Arista Networks|Ex-SDE-II @IBM ISDL| Ceph Storage Developer | Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshjain7174&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshjain7174" /> </p>
 
