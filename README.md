@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **007ssancheti@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UcHbXQKIWUA3iRnPp63nDBXl-PgIOP9Q/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11kGCOTg9Xni6qq5fhO6AUCCtwVomouOD/view?usp=sharing)
 
 - ⚡ Fun fact **I've hacked into my own Wi-Fi network (legally, of course!) just to test its security and strengthen it**
 
