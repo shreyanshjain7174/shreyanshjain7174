@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Sancheti</h1>
 <h3 align="center">SDE-2 @Microsoft|Ex-SDE @Arista Networks|Ex-SDE-II @IBM ISDL| Ceph Storage Developer | Cybersecurity Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanshjain7174" alt="shreyanshjain7174" /></a> </p>
+<p align="left"> <a href="https://portfolio-chi-silk-tx7dhx8jjn.vercel.app/"><img src="[https://github-profile-trophy.vercel.app/?username=shreyanshjain7174](https://portfolio-chi-silk-tx7dhx8jjn.vercel.app/)" alt="shreyanshjain7174" /></a> </p>
 
 - 🌱 I’m currently learning **Rook, Terraform, Openshift**
 
