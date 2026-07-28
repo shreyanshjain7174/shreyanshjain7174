@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Rook, Terraform, Openshift**
 
-- 👯 I’m looking to collaborate on **Dapr, Blockly**
+- 👯 I’m looking to collaborate on **AI infrastructure projects**
+
+- 🗓️ Schedule a call to discuss startup ideas or something to collaborate on or just want to say hi [Meet](https://calendly.com/007ssancheti)
 
 - 💬 Ask me about **Distributed Systems, System design, Cyber Security**
 
