@@ -1,35 +1,51 @@
-<h1 align="center">Hi 👋, I'm Shreyansh Sancheti</h1>
-<h3 align="center">SDE-2 @Microsoft|Ex-SDE @Arista Networks|Ex-SDE-II @IBM ISDL| Ceph Storage Developer | Cybersecurity Enthusiast</h3>
+<div align="center">
+  <img src="assets/profile-header.svg" alt="Shreyansh Sancheti — distributed systems, networking, and systems programming" width="100%" />
+</div>
 
-<p align="left"> <a href="https://portfolio-chi-silk-tx7dhx8jjn.vercel.app/"><img src="[https://github-profile-trophy.vercel.app/?username=shreyanshjain7174](https://portfolio-chi-silk-tx7dhx8jjn.vercel.app/)" alt="shreyanshjain7174" /></a> </p>
-
-- 🌱 I’m currently learning **Rook, Terraform, Openshift**
-
-- 👯 I’m looking to collaborate on **AI infrastructure projects**
-
-- 🗓️ Schedule a call to discuss startup ideas or something to collaborate on or just want to say hi [Meet](https://calendly.com/007ssancheti)
-
-- 💬 Ask me about **Distributed Systems, System design, Cyber Security**
-
-- 📫 How to reach me **007ssancheti@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11kGCOTg9Xni6qq5fhO6AUCCtwVomouOD/view?usp=sharing)
-
-- ⚡ Fun fact **I've hacked into my own Wi-Fi network (legally, of course!) just to test its security and strengthen it**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shrey_sancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrey_sancheti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyansh-sancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-sancheti" height="30" width="40" /></a>
-<a href="https://instagram.com/shrey_sancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrey_sancheti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/007ssancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="007ssancheti" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfolio-ssancheti.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/shreyansh-sancheti">LinkedIn</a> ·
+  <a href="https://calendly.com/007ssancheti">Let's talk</a> ·
+  <a href="https://github.com/shreyanshjain7174">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#currently-exploring">What I'm exploring</a> ·
+  <a href="#toolbox">Toolbox</a> ·
+  <a href="#lets-chat">Let's chat</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshjain7174&show_icons=true&locale=en&layout=compact" alt="shreyanshjain7174" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyanshjain7174&show_icons=true&locale=en" alt="shreyanshjain7174" /></p>
+I'm a software engineer at Microsoft with a focus on networking, distributed systems, and systems programming. I've also worked on storage systems and enjoy building reliable infrastructure.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshjain7174&" alt="shreyanshjain7174" /></p>
+## Currently exploring
+
+<details>
+  <summary>Open to see what I'm learning</summary>
+
+  <p>Rook, Terraform, and OpenShift — and how to apply them to reliable AI infrastructure.</p>
+</details>
+
+<details>
+  <summary>Topics I enjoy chatting about</summary>
+  <p>Distributed systems, system design, networking, storage, and cybersecurity. I'm also happy to talk about open-source infrastructure projects.</p>
+</details>
+
+## Toolbox
+
+<details>
+  <summary>Expand my languages and infrastructure tools</summary>
+  <p><strong>Languages:</strong> C++, Rust, Go, Python</p>
+  <p><strong>Infrastructure:</strong> Kubernetes, Ceph, Docker, Linux, Terraform, OpenShift</p>
+</details>
+
+## Let's chat
+
+Have an interesting systems or AI infrastructure project? <a href="https://calendly.com/007ssancheti">Schedule a chat</a>, <a href="mailto:007ssancheti@gmail.com">send me an email</a>, or <a href="https://linkedin.com/in/shreyansh-sancheti">connect on LinkedIn</a>.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/11kGCOTg9Xni6qq5fhO6AUCCtwVomouOD/view">Resume</a> ·
+  <a href="https://portfolio-ssancheti.vercel.app">Portfolio</a>
+</p>
